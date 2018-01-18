@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.16)  17 JAN 2018 23:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.16)  18 JAN 2018 23:48
 entering extended mode
 **./Haptify_Paper.tex
 (Haptify_Paper.tex
 LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
-(C:\Users\pesho\AppData\Roaming\MiKTeX\2.9\tex\latex\acmart\acmart.cls
+(acmart.cls
 Document Class: acmart 2017/12/14 v1.48 Typesetting articles for the Associatio
 n for Computing Machinery
 ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
@@ -1591,27 +1591,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 223.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
+(Font)              scaled to size 9.0pt on input line 223.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 <p1_q1.png, id=191, 462.528pt x 346.896pt>
 File: p1_q1.png Graphic file (type png)
 <use p1_q1.png>
-Package pdftex.def Info: p1_q1.png  used on input line 237. on input line 237.
+Package pdftex.def Info: p1_q1.png  used on input line 239. on input line 239.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
-e 237.
+e 239.
 <p1_q2.png, id=193, 462.528pt x 346.896pt>
 File: p1_q2.png Graphic file (type png)
 <use p1_q2.png>
-Package pdftex.def Info: p1_q2.png  used on input line 243. on input line 243.
+Package pdftex.def Info: p1_q2.png  used on input line 245. on input line 245.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
-e 243.
+e 245.
 <p1_q3.png, id=194, 462.528pt x 346.896pt>
 File: p1_q3.png Graphic file (type png)
 <use p1_q3.png>
-Package pdftex.def Info: p1_q3.png  used on input line 249. on input line 249.
+Package pdftex.def Info: p1_q3.png  used on input line 251. on input line 251.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
-e 249.
+e 251.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1619,29 +1621,30 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 1168) has occurred while \output is active []
 
  [5.5 <./p1_q1.png> <./p1_q2.png>]
-<p2_q1.png, id=212, 462.528pt x 346.896pt>
+<p2_q1.png, id=213, 462.528pt x 346.896pt>
 File: p2_q1.png Graphic file (type png)
 <use p2_q1.png>
 Package pdftex.def Info: p2_q1.png  used on input line 274. on input line 274.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
 e 274.
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
+Underfull \hbox (badness 10000) in paragraph at lines 271--278
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) Detailed view per statis-tic []A blank sp
+ace []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 271--278
 
  []
 
-<p2_q2.png, id=213, 462.528pt x 346.896pt>
+<p2_q2.png, id=214, 462.528pt x 346.896pt>
 File: p2_q2.png Graphic file (type png)
 <use p2_q2.png>
 Package pdftex.def Info: p2_q2.png  used on input line 281. on input line 281.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
 e 281.
-<p2_q3.png, id=214, 462.528pt x 346.896pt>
+<p2_q3.png, id=215, 462.528pt x 346.896pt>
 File: p2_q3.png Graphic file (type png)
 <use p2_q3.png>
 Package pdftex.def Info: p2_q3.png  used on input line 288. on input line 288.
@@ -1650,13 +1653,13 @@ e 288.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<p3_q1.png, id=215, 462.528pt x 346.896pt>
+<p3_q1.png, id=216, 462.528pt x 346.896pt>
 File: p3_q1.png Graphic file (type png)
 <use p3_q1.png>
 Package pdftex.def Info: p3_q1.png  used on input line 309. on input line 309.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
 e 309.
-<p3_q2.png, id=216, 462.528pt x 346.896pt>
+<p3_q2.png, id=217, 462.528pt x 346.896pt>
 File: p3_q2.png Graphic file (type png)
 <use p3_q2.png>
 Package pdftex.def Info: p3_q2.png  used on input line 315. on input line 315.
@@ -1665,7 +1668,7 @@ e 315.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<p3_q3.png, id=217, 462.528pt x 346.896pt>
+<p3_q3.png, id=218, 462.528pt x 346.896pt>
 File: p3_q3.png Graphic file (type png)
 <use p3_q3.png>
 Package pdftex.def Info: p3_q3.png  used on input line 322. on input line 322.
@@ -1674,7 +1677,10 @@ e 322.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6.6 <./p1_q3.png> <./p2_q1.png> <./p2_q2.png> <./p2_q3.png>]
+
+Underfull \vbox (badness 2005) has occurred while \output is active []
+
+ [6.6 <./p1_q3.png> <./p2_q1.png> <./p2_q2.png> <./p2_q3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 327--329
 []\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
  []
@@ -1694,59 +1700,31 @@ Overfull \hbox (11.37822pt too wide) in paragraph at lines 337--344
  [][] 
  []
 
-<p_q1.png, id=234, 462.528pt x 346.896pt>
+<p_q1.png, id=235, 462.528pt x 346.896pt>
 File: p_q1.png Graphic file (type png)
 <use p_q1.png>
 Package pdftex.def Info: p_q1.png  used on input line 348. on input line 348.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
 e 348.
-<p_q2.png, id=235, 462.528pt x 346.896pt>
+<p_q2.png, id=236, 462.528pt x 346.896pt>
 File: p_q2.png Graphic file (type png)
 <use p_q2.png>
-Package pdftex.def Info: p_q2.png  used on input line 355. on input line 355.
+Package pdftex.def Info: p_q2.png  used on input line 354. on input line 354.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
-e 355.
-<p_q3.png, id=236, 462.528pt x 346.896pt>
+e 354.
+<p_q3.png, id=237, 462.528pt x 346.896pt>
 File: p_q3.png Graphic file (type png)
 <use p_q3.png>
-Package pdftex.def Info: p_q3.png  used on input line 362. on input line 362.
+Package pdftex.def Info: p_q3.png  used on input line 360. on input line 360.
 Package pdftex.def Info: Requested size: 462.52686pt x 346.89514pt on input lin
-e 362.
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--366
-[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--366
-[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--366
-[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--366
-[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--366
-[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) A blank space []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--366
-
- []
-
+e 360.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [7.7 <./p3_q1.png> <./p3_q2.png> <./p3_q3.png> <./p_q1.png> <./p_q2.png>]
-(Haptify_Paper.bbl
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [8.8 <./p_q3.png>] (Haptify_Paper.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 63.
 
@@ -1755,14 +1733,12 @@ Underfull \hbox (badness 1259) in paragraph at lines 91--98
  Iván Chulvi-Medrano, Ser-gio
  []
 
-[8.8 <./p_q3.png>]) [9.9
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
+) [9.9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
  (Haptify_Paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
 Package rerunfilecheck Info: File `Haptify_Paper.out' has not changed.
 (rerunfilecheck)             Checksum: E68DBA55544CFDE2548FABDDB68EDE4E;3001.
 
@@ -1771,29 +1747,31 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19062 strings out of 493312
- 286531 string characters out of 3138899
- 411833 words of memory out of 3000000
- 21711 multiletter control sequences out of 15000+200000
- 145633 words of font info for 253 fonts, out of 3000000 for 9000
+ 19071 strings out of 493312
+ 286805 string characters out of 3138899
+ 410833 words of memory out of 3000000
+ 21713 multiletter control sequences out of 15000+200000
+ 151551 words of font info for 258 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,1615b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,94p,1615b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7gr
 ukw.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lb
-tn_25tcsq.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libert
-ine/lbtn_naooyc.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/
-libertine/lbtn_nh77jq.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/
-dvips/libertine/lbtn_76gpa5.enc}<C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/font
-s/type1/public/libertine/LinBiolinumT.pfb><C:/Users/pesho/AppData/Roaming/MiKTe
-X/2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/pesho/AppData/Ro
-aming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumTI.pfb><C:/Users/pesho
-/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/
-Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertin
-eTB.pfb><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine
-/LinLibertineTI.pfb>
-Output written on Haptify_Paper.pdf (9 pages, 1294672 bytes).
+tn_ki75ao.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libert
+ine/lbtn_25tcsq.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/
+libertine/lbtn_naooyc.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/
+dvips/libertine/lbtn_nh77jq.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/font
+s/enc/dvips/libertine/lbtn_76gpa5.enc}<C:/Users/pesho/AppData/Roaming/MiKTeX/2.
+9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/pesho/AppData/Roaming
+/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/pesho/AppD
+ata/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinBiolinumTI.pfb><C:/Users
+/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineT.pf
+b><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLi
+bertineTB.pfb><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lib
+ertine/LinLibertineTBI.pfb><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/typ
+e1/public/libertine/LinLibertineTI.pfb>
+Output written on Haptify_Paper.pdf (9 pages, 1329775 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
+ 326 PDF objects out of 1000 (max. 8388607)
  96 named destinations out of 1000 (max. 500000)
- 38634 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 39146 words of extra memory for PDF output out of 42996 (max. 10000000)
 

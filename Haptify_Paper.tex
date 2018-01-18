@@ -219,7 +219,7 @@ The code is hosted on Github \\
 
 
 %Pattern1
-\paragraph {Pattern1}
+\paragraph {\textbf{Pattern1}}
 Table of average physical results of all users for this pattern.
 \begin{table}[h]
 \caption{Pattern 1 and detailed answers in number to the formulated questions}
@@ -230,6 +230,8 @@ Table of average physical results of all users for this pattern.
  [43.0,28.0,32.0]& 10427.648ms & 22\%  \\ \hline
 \end{tabular}
 \end{table}
+
+
 
 Detailed view per statistic
 \begin{figure}[h]
@@ -253,9 +255,8 @@ Detailed view per statistic
 
 
 
-
 %Pattern2
-\paragraph {Pattern2}
+\paragraph {\textbf{Pattern2}}
 Table of average physical results of all users for this pattern.\\
 \begin{table}[htb]
 \caption{Pattern 2 and detailed answers in number to the formulated questions}
@@ -268,7 +269,6 @@ Table of average physical results of all users for this pattern.\\
 \end{table}
 
 Detailed view per statistic
-
 \begin{figure}[hb]
 \centering
 \includegraphics[width=1\columnwidth, scale=1]{p2_q1.png}
@@ -291,7 +291,7 @@ Detailed view per statistic
 
 
 %Pattern3
-\paragraph {Pattern3}
+\paragraph {\textbf{Pattern3}}
 Table of average physical results of all users for this pattern.\\
 \begin{table}[htb]
 \caption{Pattern 3 and detailed answers in number to the formulated questions}
@@ -345,43 +345,41 @@ Third   &  [27.0, 34.0, 22.0]                         &       		10851.408 ms    
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\columnwidth, scale=1]{p_q1.png}
+\includegraphics[width=1\columnwidth, scale=1]{p_q1.png}
 \caption{On average, how long did it take before the user corrected him/herself?}
 \end{figure}
-{\color{white} A blank space } \linebreak
-{\color{white} A blank space } \linebreak
+
 \begin{figure}[hb]
 \centering
-\includegraphics[width=0.8\columnwidth, scale=1]{p_q2.png}
+\includegraphics[width=1\columnwidth, scale=1]{p_q2.png}
 \caption{How much of the total time did they maintain correct posture?}
 \end{figure}
-{\color{white} A blank space } \linebreak
-{\color{white} A blank space } \linebreak
+
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.8\columnwidth, scale=1]{p_q3.png}
+\includegraphics[width=1\columnwidth, scale=1]{p_q3.png}
 \caption{How many times did the user have to be corrected, per flex sensor?}
 \end{figure} 
-{\color{white} A blank space } \linebreak
+
 
 Looking solely at the percentage of the time the user maintained correct posture, which is critical for performing a correct plank exercise and putting stress on the correct muscles, pattern two seems to be the best pattern. Even though the average time before the user corrected him/herself was higher than the other patterns they clearly held their posture correctly a higher percentage of the total time. As for the amount of times the user had to be corrected, pattern two was the lowest (lower being better at this statistic) than both patterns. Pattern one had 103 total corrections on average, pattern two had 72, and pattern three had 83. The high number of corrections for pattern 1 might be due to the subtle feedback it gives compared to the other two, which gives the user a clearer idea of where bad posture is.
 Based on the statistics, pattern two is clearly the better pattern.
 
 
-
-
-
-
 \section{Discussion}
-
-
 In section seven we defined three questions to help us understand the data we have gathered during testing sessions. The third question is critical in helping us to decide which pattern act as the most effective pattern in correcting the posture. As it is the primary statistic to determine how well the plank exercise was performed. One could try to argue that it is not about keeping the most correct posture, but how well the person responded to feedback and if the user corrected himself accordingly. But this is not the thing that is important with a plank exercise. Keeping form is more important than how many times a person correct himself. Bad posture during exercise could lead to damage to the spine and other injury's. [22] So the more time a user holds his correct posture and the fewer times the user has to be corrected the better. Which clearly shows that pattern two is the better pattern.
 The second question is also useful to determine the intensity of the feedback which lead the user to correct their posture in shorter time. One could say that this statistic shows how well the user could perceive the feedback and work to adjust accordingly. This might mean that pattern two does not give the best feedback in terms on intensity or pattern, as it has the worst score out of the three. But it can also mean that the feedback was subtler and with minute changes, which would take the user more time to process than a more intense pattern. But give the user more precise information on how to correct him/herself. A reasonable case could be made about this argument because of the statistics for the other two questions, which clearly show that the users of pattern two both had to be corrected fewer times and that they maintained their overall posture better than the other patterns.
 If we look at another patterns point of view, for instance pattern one, it also had a decent total percentage of time where the users maintained correct posture. Nowhere near the percentage of pattern two, but still decent. It did however have the lowest time before the user correct him/herself compared to the other two patterns. Which seems like the pattern has a good feedback pattern/intensity. The problem however is that the total times the user had to be corrected is way higher. Which could be interpreted as the user not getting accurate feedback, but only more intense feedback. Besides that, the total time the users had correct posture is not high enough to even realistically consider this pattern.
 
 
 \section{Conclusion}
-With this research we have aimed to answer the following question: "What type of haptic feedback patterns is best used in a wearable for correcting posture during a plank exercise?". To answer this question, we first defined what correct posture is during a plank exercise and we have looked into how we can use haptic motors to give useful feedback to the user. Also, we have created a prototype which came with a couple of challenges, such as how to measure posture autonomously. Subsequently we implemented three haptic patterns and tested those on 13 subjects during a plank exercise. Following the data analysis, we concluded that subjects using the guidance pattern were the most successful in maintaining correct posture, compared to the linear increasing pattern and alert pattern. We also had to conclude that unfortunately the prototype is not usable for people shorter than 1.65m and that the prototype really shines with correcting posture while sitting and standing but a bit less than optimal in a plank position.
+
+With this research we have aimed to answer the following question: "What type of haptic feedback patterns is best used in a wearable for correcting posture during a plank exercise?".  
+To answer this question, we first defined what correct posture is during a plank exercise which turned out that the ideal position is neutral (the shape of an S). That is, no extension or flexion in the upper and lower back, and no lateral movement. Any flexion, extension or lateral movement could cause pressure on the intervertebral discs, causing them to protrude (I.E a trapped disc, or herniated disc), putting pressure on the nerve roots running throughout the spine. 
+Then we examined how we can use haptic motors to give useful feedback to the user and defined several feedback patterns to achieve this. We have decided to use the linear increasing, guidance and alert haptic patterns.  
+In addition, we have created a prototype which came with a couple of challenges, such as; how to measure posture autonomously and how to be able to calibrate the prototype autonomously such that it can decide properly what the correct posture is. For this purpose we used the Arduino in combination with three flex sensors and three haptic motors, which measures the posture and thereafter gives haptic feedback based on the calibration values.\\  
+Subsequently we implemented three haptic patterns and tested those on 13 subjects during a plank exercise. Following the data analysis, we concluded that subjects using the guidance pattern (pattern 2) were the most successful in maintaining correct posture, compared to the linear increasing pattern and alert pattern. We also had to conclude that unfortunately the prototype is not usable for people shorter than 1.65m, and that the prototype really shines with correcting posture while sitting and standing. However, the prototype is a bit less than optimal in a plank position. 
+For future studies we would recommend to use stronger haptic motors if subjects are being tested during exercises. Also future studies could compare the haptic patterns to a "no pattern" baseline, to verify if haptic patterns actually have any positive effect at all during a plank exercise, instead of just comparing different patterns.
 
 \section{Acknowledgment}
 This research was supported by Amsterdam University of Applied Sciences and Info.nl. 
