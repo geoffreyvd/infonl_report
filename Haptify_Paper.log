@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.16)  19 JAN 2018 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.16)  19 JAN 2018 19:58
 entering extended mode
 **./Haptify_Paper.tex
 (Haptify_Paper.tex
@@ -1757,7 +1757,7 @@ Here is how much of TeX's memory you used:
  21713 multiletter control sequences out of 15000+200000
  151551 words of font info for 258 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,1615b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,94p,1716b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7gr
 ukw.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lb
 tn_ki75ao.enc}{C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libert
@@ -1773,7 +1773,7 @@ b><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLi
 bertineTB.pfb><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lib
 ertine/LinLibertineTBI.pfb><C:/Users/pesho/AppData/Roaming/MiKTeX/2.9/fonts/typ
 e1/public/libertine/LinLibertineTI.pfb>
-Output written on Haptify_Paper.pdf (9 pages, 1329967 bytes).
+Output written on Haptify_Paper.pdf (9 pages, 1330041 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  96 named destinations out of 1000 (max. 500000)
